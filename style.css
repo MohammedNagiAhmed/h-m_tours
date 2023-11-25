@@ -1,0 +1,23 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+img{
+    padding: 5%;
+    border-radius: 2%;
+}
+
+.container{
+    border: 1px solid rebeccapurple;
+    padding: 5%;
+    border-radius: 1%;
+    text-transform: capitalize;
+}
+.card img{
+    min-height: 350px !important;
+    max-height: 355px !important;
+  }
+  .col img{
+    min-height: 350px;
+  }
